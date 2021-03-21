@@ -10,7 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" /> 
             <Weather defaultCity="Malacca" />
             <footer>
-             Coded by <a href="https://github.com/catherine1201/2003finalreact" target="_blank">
+             Coded by <a href="https://github.com/catherine1201/2003finalreact" target="_blank" rel = "noreferrer">
              Catherine Lim
              </a>
             </footer>
