@@ -7,15 +7,13 @@ function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-              
+        <img src={logo} className="App-logo" alt="logo" /> 
             <Weather defaultCity="Malacca" />
             <footer>
              Coded by Catherine Lim
             </footer>
-       
-        </header>
-        </div>
+      </header>
+      </div>
     </div>
   );
 }
